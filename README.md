@@ -5,7 +5,7 @@ For add message use /addMessage
 
 json format
 {
-    "name": "***"
+    "name": "***",
     "value": ***
 }
 
